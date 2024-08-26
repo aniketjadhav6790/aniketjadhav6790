@@ -12,13 +12,11 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring 
-- :hourglass_flowing_sand: 
+- :computer: I'm a Fullstack Developer, currently exploring  
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: 
+- :man_technologist: Working at Groovy Glimpse as Full-Stack Developer Intern.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: 
-- :zap: <br>
+<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
